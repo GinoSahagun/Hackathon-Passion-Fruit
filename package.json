@@ -1,0 +1,25 @@
+{
+  "name": "passion_fruit",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "description": "passion_fruit",
+  "author": {
+    "name": "CAR"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.1",
+    "express": "^4.14.1",
+    "jade": "^1.11.0",
+    "mongo-sanitize": "^1.0.0",
+    "mongodb": "^2.2.24",
+    "mongoose": "^4.8.4",
+    "morgan": "^1.8.1",
+    "stylus": "^0.42.3",
+    "toastr": "^2.1.2"
+  }
+}
